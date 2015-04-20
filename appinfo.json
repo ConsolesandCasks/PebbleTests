@@ -1,0 +1,34 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "garyalbert85@gmail.com",
+    "longName": "Tutorial 2",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/blue_watch_face.png",
+                "name": "BLUE_FACE",
+                "type": "png"
+            },
+            {
+                "file": "fonts/consola.ttf",
+                "name": "FONT_CONSOLAS_44",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Tutorial 2",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "242e710e-d8b6-45c3-b698-7a68166f8bce",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
